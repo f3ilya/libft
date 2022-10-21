@@ -22,7 +22,7 @@ https://microelectronics.dev/eboris/libft/wiki/Описание-функций?l
 Ваши функции должны будут представлять тот же прототип и поведение, что и исходные.
 Имена ваших функций должны иметь префикс ft_. 
 
-* [ft_memset](/ft_memset.c)
+* [ft_memset](/tree/master/libft/ft_memset.c)
 * [ft_bzero](/ft_bzero.c)
 * [ft_memcpy](/ft_memcpy.c)
 * [ft_memccpy](/ft_memccpy.c)
