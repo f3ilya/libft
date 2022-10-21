@@ -2,8 +2,6 @@
 
 ## school 21 (42) libft project
 
-<img src="./image.jpg" width=%80 height=%80>
-
 My first project at School 21.
 
 Цель проекта - реализация функций стандартной библиотеки Си.
